@@ -1,4 +1,4 @@
-### Front-End Web Developer 👋
+### Software and Web Developer 👋
 
 <!--
 **HayaiAlex/HayaiAlex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
